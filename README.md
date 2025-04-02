@@ -1,6 +1,6 @@
 ## 🔐 ECC-Based Secure Communication Protocol
 
-This project implements a secure communication protocol using **Elliptic Curve Cryptography (ECC)**, focusing on **ephemeral key exchange**, **digital certificates**, **HMAC**, and **AES-256 encryption**. It was developed as a reference implementation for the protocol described in the [JCP paper](https://www.https://www.mdpi.com/2624-800X/5/2/11).
+This project implements a secure communication protocol using **Elliptic Curve Cryptography (ECC)**, focusing on **ephemeral key exchange**, **digital certificates**, **HMAC**, and **AES-256 encryption**. It was developed as a reference implementation for the protocol described in the [JCP paper](https://www.mdpi.com/2624-800X/5/2/11).
 
 ---
 
